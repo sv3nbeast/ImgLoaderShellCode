@@ -1,0 +1,8 @@
+﻿  addShellCodeImg.cpp
+C:\Users\sven\Desktop\C++\getImgshellcode\addShellCodeImg.cpp(97,34): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  2 of 94 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  getImgshellcode.vcxproj -> C:\Users\sven\Desktop\C++\getImgshellcode\Release\getImgshellcode.exe
